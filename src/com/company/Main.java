@@ -15,7 +15,8 @@ public class Main {
                 }
             }
         }
-        if (count != 0 && count % 2 == 0) {  // TODO Hvad betyder det her?
+        //Et if statement, som tjekker om et bogstav optræder mere end 1 gang og den tæller og ud fra count fortæller den resultatet. 
+        if (count != 0 && count % 2 == 0) { 
             System.out.println("String is Doubloon ");
         } else {
             System.out.println("String is not Doubloon ");
