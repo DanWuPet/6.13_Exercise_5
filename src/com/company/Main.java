@@ -15,7 +15,7 @@ public class Main {
                 }
             }
         }
-        if (count != 0 && count % 2 == 0) {
+        if (count != 0 && count % 2 == 0) {  // TODO Hvad betyder det her?
             System.out.println("String is Doubloon ");
         } else {
             System.out.println("String is not Doubloon ");
